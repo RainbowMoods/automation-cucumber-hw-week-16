@@ -1,0 +1,316 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 13795387700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "verify user is able to create account successfully",
+        "description": "",
+        "id": "account-creation-test;verify-user-is-able-to-create-account-successfully",
+        "after": [
+          {
+            "result": {
+              "duration": 1187693600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3472805300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I click on sign in link",
+            "match": {
+              "location": "TestAccountCreationSteps.iClickOnSignInLink()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 185916900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I enter email for create account",
+            "match": {
+              "location": "TestAccountCreationSteps.iEnterEmailForCreateAccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 158212100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on create new account button",
+            "match": {
+              "location": "TestAccountCreationSteps.iClickOnCreateNewAccountButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3121110100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I enter below details in the form",
+            "match": {
+              "location": "TestAccountCreationSteps.iEnterBelowDetailsInTheForm(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "lastName",
+                  "password",
+                  "address",
+                  "city",
+                  "state",
+                  "postal",
+                  "country",
+                  "phone"
+                ],
+                "line": 10
+              },
+              {
+                "cells": [
+                  "Micky",
+                  "Mouse",
+                  "passwrod1",
+                  "The new street",
+                  "New York",
+                  "1",
+                  "10934",
+                  "21",
+                  "0192384755"
+                ],
+                "line": 11
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3902933100,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I click on register button",
+            "match": {
+              "location": "TestAccountCreationSteps.iClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 68934100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I verify account name \"Micky\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Micky",
+                  "offset": 23
+                }
+              ],
+              "location": "TestAccountCreationSteps.iVerifyAccountName(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@smoke"
+          },
+          {
+            "line": 4,
+            "name": "@regression"
+          },
+          {
+            "line": 4,
+            "name": "@underTest2"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9987193200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "verify user is not able to create account successfully using invalid data in form",
+        "description": "",
+        "id": "account-creation-test;verify-user-is-not-able-to-create-account-successfully-using-invalid-data-in-form",
+        "after": [
+          {
+            "result": {
+              "duration": 767324800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2586063400,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "I click on sign in link",
+            "match": {
+              "location": "TestAccountCreationSteps.iClickOnSignInLink()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 234157600,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I enter email for create account",
+            "match": {
+              "location": "TestAccountCreationSteps.iEnterEmailForCreateAccount()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 126488900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I click on create new account button",
+            "match": {
+              "location": "TestAccountCreationSteps.iClickOnCreateNewAccountButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2600049400,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I enter below details in the form",
+            "match": {
+              "location": "TestAccountCreationSteps.iEnterBelowDetailsInTheForm(DataTable)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "firstName",
+                  "lastName",
+                  "password",
+                  "address",
+                  "city",
+                  "state",
+                  "postal",
+                  "country",
+                  "phone"
+                ],
+                "line": 22
+              },
+              {
+                "cells": [
+                  "$$",
+                  "\u0026\u0026",
+                  "",
+                  "",
+                  "1234567",
+                  "1",
+                  "PINCORRECTCODE",
+                  "21",
+                  "1923755"
+                ],
+                "line": 23
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1824462000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click on register button",
+            "match": {
+              "location": "TestAccountCreationSteps.iClickOnRegisterButton()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 54773200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I verify the error message displayed which contains \"errors\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "errors",
+                  "offset": 53
+                }
+              ],
+              "location": "TestAccountCreationSteps.iVerifyTheErrorMessageDisplayedWhichContains(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@smoke"
+          },
+          {
+            "line": 16,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Account Creation Test",
+    "description": "As a user I should be able to create account successfully",
+    "id": "account-creation-test",
+    "keyword": "Feature",
+    "uri": "testaccountcreation.feature"
+  }
+]

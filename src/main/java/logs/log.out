@@ -1,0 +1,196 @@
+2021-12-26 19:12:383 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:228 INFO  OurStoresPage :81 - Dragging map to targeted location.
+2021-12-26 19:12:941 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:497 INFO  HomePage :64 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:792 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:887 INFO  HomePage :64 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:13 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:698 INFO  HomePage :63 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:237 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:841 INFO  HomePage :63 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:938 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:18 INFO  HomePage :63 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:162 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:555 INFO  HomePage :63 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:280 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:556 INFO  HomePage :63 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:172 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:299 INFO  HomePage :63 - hovering mouse to menu: 'WOMEN
+TOPS
+T-shirts
+Blouses
+DRESSES
+Casual Dresses
+Evening Dresses
+Summer Dresses'
+2021-12-26 19:12:455 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 19:12:972 INFO  SummerDressesPage :71 - setting slider price to: 20.00'
+2021-12-26 19:12:619 INFO  SummerDressesPage :96 - verifying listed products are within selected max price range.
+2021-12-26 20:12:885 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 20:12:396 INFO  SummerDressesPage :71 - setting slider price to: 20.00'
+2021-12-26 20:12:141 INFO  SummerDressesPage :96 - verifying listed products are within selected max price range.
+2021-12-26 20:12:603 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 20:12:953 INFO  OurStoresPage :81 - Dragging map to targeted location.
+2021-12-26 20:12:80 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 20:12:142 INFO  OurStoresPage :89 - Dragging map to targeted location.
+2021-12-26 21:12:998 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-26 21:12:399 INFO  SummerDressesPage :71 - setting slider price to: 20.00'
+2021-12-26 21:12:248 INFO  SummerDressesPage :96 - verifying listed products are within selected max price range.
+2021-12-28 09:12:755 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 09:12:658 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 09:12:946 INFO  SignInPage :31 - fill in email: 'www.7ItIT@gmail.com'
+2021-12-28 09:12:204 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 09:12:255 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 09:12:41 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 09:12:339 INFO  SignInPage :31 - fill in email: 'www.6JxwG@gmail.com'
+2021-12-28 09:12:543 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 09:12:568 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 09:12:19 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 09:12:266 INFO  SignInPage :31 - fill in email: 'www.b7cz3@gmail.com'
+2021-12-28 09:12:430 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 09:12:964 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 09:12:830 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 09:12:107 INFO  SignInPage :31 - fill in email: 'www.W9IIo@gmail.com'
+2021-12-28 09:12:277 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 10:12:232 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 10:12:447 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 10:12:639 INFO  SignInPage :31 - fill in email: 'www.gAhFA@gmail.com'
+2021-12-28 10:12:879 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 10:12:280 INFO  CreateAccountPage :154 - click on register button
+2021-12-28 10:12:496 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 10:12:927 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 10:12:177 INFO  SignInPage :31 - fill in email: 'www.SklL2@gmail.com'
+2021-12-28 10:12:373 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 10:12:753 INFO  CreateAccountPage :154 - click on register button
+2021-12-28 10:12:540 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 10:12:828 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 10:12:135 INFO  SignInPage :31 - fill in email: 'www.tLRAP@gmail.com'
+2021-12-28 10:12:346 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 10:12:576 INFO  CreateAccountPage :107 - Entering First Name : 'Jerry'
+2021-12-28 10:12:889 INFO  CreateAccountPage :112 - Entering Last Name: 'Mouse'
+2021-12-28 10:12:401 INFO  CreateAccountPage :118 - Entering Password : 'passwrod1'
+2021-12-28 10:12:655 INFO  CreateAccountPage :124 - Entering address : 'The new street'
+2021-12-28 10:12:859 INFO  CreateAccountPage :129 - Entering city: 'New York'
+2021-12-28 10:12:32 INFO  CreateAccountPage :134 - Entering State: '1'
+2021-12-28 10:12:158 INFO  CreateAccountPage :144 - Entering postcode: '10934'
+2021-12-28 10:12:254 INFO  CreateAccountPage :149 - Entering Country: '21'
+2021-12-28 10:12:434 INFO  CreateAccountPage :139 - Entering Phone number: '0192384755'
+2021-12-28 10:12:182 INFO  CreateAccountPage :154 - click on register button
+2021-12-28 10:12:287 INFO  MyAccountPage :24 - verifying account name text: Jerry Mouse'
+2021-12-28 10:12:36 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 10:12:482 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 10:12:878 INFO  SignInPage :31 - fill in email: 'www.EUXmq@gmail.com'
+2021-12-28 10:12:55 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 10:12:508 INFO  CreateAccountPage :107 - Entering First Name : 'James'
+2021-12-28 10:12:754 INFO  CreateAccountPage :112 - Entering Last Name: 'Mouse'
+2021-12-28 10:12:82 INFO  CreateAccountPage :118 - Entering Password : 'passwrod1'
+2021-12-28 10:12:289 INFO  CreateAccountPage :124 - Entering address : 'The new street'
+2021-12-28 10:12:537 INFO  CreateAccountPage :129 - Entering city: 'New York'
+2021-12-28 10:12:708 INFO  CreateAccountPage :134 - Entering State: '1'
+2021-12-28 10:12:843 INFO  CreateAccountPage :144 - Entering postcode: '10934'
+2021-12-28 10:12:941 INFO  CreateAccountPage :149 - Entering Country: '21'
+2021-12-28 10:12:114 INFO  CreateAccountPage :139 - Entering Phone number: '0192384755'
+2021-12-28 10:12:326 INFO  CreateAccountPage :154 - click on register button
+2021-12-28 10:12:429 INFO  MyAccountPage :24 - verifying account name text: James Mouse'
+2021-12-28 15:12:340 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 15:12:156 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 15:12:79 INFO  SignInPage :31 - fill in email: 'www.0Lrvw@gmail.com'
+2021-12-28 15:12:561 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 15:12:509 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 15:12:558 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 15:12:281 INFO  SignInPage :31 - fill in email: 'www.QR2LM@gmail.com'
+2021-12-28 15:12:710 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 15:12:377 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-28 15:12:905 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-28 15:12:292 INFO  SignInPage :31 - fill in email: 'www.QCLC8@gmail.com'
+2021-12-28 15:12:485 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-28 15:12:918 INFO  CreateAccountPage :107 - Entering First Name : 'Jerry'
+2021-12-28 15:12:365 INFO  CreateAccountPage :112 - Entering Last Name: 'Mouse'
+2021-12-28 15:12:556 INFO  CreateAccountPage :118 - Entering Password : 'passwrod1'
+2021-12-28 15:12:827 INFO  CreateAccountPage :124 - Entering address : 'The new street'
+2021-12-28 15:12:22 INFO  CreateAccountPage :129 - Entering city: 'New York'
+2021-12-28 15:12:202 INFO  CreateAccountPage :134 - Entering State: '1'
+2021-12-28 15:12:376 INFO  CreateAccountPage :144 - Entering postcode: '10934'
+2021-12-28 15:12:475 INFO  CreateAccountPage :149 - Entering Country: '21'
+2021-12-28 15:12:692 INFO  CreateAccountPage :139 - Entering Phone number: '0192384755'
+2021-12-28 15:12:245 INFO  CreateAccountPage :154 - click on register button
+2021-12-28 15:12:372 INFO  MyAccountPage :24 - verifying account name text: Jerry Mouse'
+2021-12-29 00:12:100 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-29 00:12:179 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-29 00:12:387 INFO  SignInPage :31 - fill in email: 'www.RSzWM@gmail.com'
+2021-12-29 00:12:553 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-29 00:12:601 INFO  CreateAccountPage :107 - Entering First Name : 'Micky'
+2021-12-29 00:12:721 INFO  CreateAccountPage :112 - Entering Last Name: 'Mouse'
+2021-12-29 00:12:868 INFO  CreateAccountPage :118 - Entering Password : 'passwrod1'
+2021-12-29 00:12:15 INFO  CreateAccountPage :124 - Entering address : 'The new street'
+2021-12-29 00:12:231 INFO  CreateAccountPage :129 - Entering city: 'New York'
+2021-12-29 00:12:373 INFO  CreateAccountPage :134 - Entering State: '1'
+2021-12-29 00:12:479 INFO  CreateAccountPage :144 - Entering postcode: '10934'
+2021-12-29 00:12:552 INFO  CreateAccountPage :149 - Entering Country: '21'
+2021-12-29 00:12:678 INFO  CreateAccountPage :139 - Entering Phone number: '0192384755'
+2021-12-29 00:12:583 INFO  CreateAccountPage :154 - click on register button
+2021-12-29 00:12:652 INFO  MyAccountPage :24 - verifying account name text: Micky Mouse'
+2021-12-29 00:12:58 INFO  ManageDriver :41 - Launching Chrome Browser
+2021-12-29 00:12:427 INFO  HomePage :44 - click on sign in linkSign in'
+2021-12-29 00:12:670 INFO  SignInPage :31 - fill in email: 'www.kP4uA@gmail.com'
+2021-12-29 00:12:804 INFO  SignInPage :36 - clicking on create account button: Create an account'
+2021-12-29 00:12:512 INFO  CreateAccountPage :107 - Entering First Name : '$$'
+2021-12-29 00:12:605 INFO  CreateAccountPage :112 - Entering Last Name: '&&'
+2021-12-29 00:12:695 INFO  CreateAccountPage :118 - Entering Password : ''
+2021-12-29 00:12:781 INFO  CreateAccountPage :124 - Entering address : ''
+2021-12-29 00:12:885 INFO  CreateAccountPage :129 - Entering city: '1234567'
+2021-12-29 00:12:113 INFO  CreateAccountPage :134 - Entering State: '1'
+2021-12-29 00:12:240 INFO  CreateAccountPage :144 - Entering postcode: 'PINCORRECTCODE'
+2021-12-29 00:12:303 INFO  CreateAccountPage :149 - Entering Country: '21'
+2021-12-29 00:12:406 INFO  CreateAccountPage :139 - Entering Phone number: '1923755'
+2021-12-29 00:12:232 INFO  CreateAccountPage :154 - click on register button
+2021-12-29 00:12:291 INFO  CreateAccountPage :99 - verifying error message: 'There are 5 errors'
